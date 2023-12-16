@@ -1,0 +1,8 @@
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\bin\Debug\HryshkanychKhrystyna.RoboChallange.dll
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\bin\Debug\HryshkanychKhrystyna.RoboChallange.pdb
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\bin\Debug\Robot.Common.dll
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\obj\Debug\HryshkanychKhrystyna.RoboChallange.csproj.AssemblyReference.cache
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\obj\Debug\HryshkanychKhrystyna.RoboChallange.csproj.CoreCompileInputs.cache
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\obj\Debug\HryshkanychKhrystyna.RoboChallange.csproj.CopyComplete
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\obj\Debug\HryshkanychKhrystyna.RoboChallange.dll
+D:\My creation\VS, .net\HryshkanychKhrystyna.RoboChallange\HryshkanychKhrystyna.RoboChallange\obj\Debug\HryshkanychKhrystyna.RoboChallange.pdb
